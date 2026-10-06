@@ -1,0 +1,7 @@
+{
+  "name": "Folio Journal — Editorial & Essays",
+  "description": "An exquisite single-page publication and blogging experience featuring long-form essays, curatorial critiques, interactive reading modes, and smooth animated transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
